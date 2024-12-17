@@ -25,7 +25,7 @@ random_icon <- sample(c("canadian-maple-leaf", "dragon", "user", "cog",
 ## UI ----
 ui <- dashboardPage(
     skin = "purple",
-    dashboardHeader(title = "Basic Template", 
+    dashboardHeader(title = "Title to be added", 
         titleWidth = "calc(100% - 44px)" # puts sidebar toggle on right
     ),
     dashboardSidebar(
